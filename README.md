@@ -74,7 +74,7 @@ sale_id FK -> SALES(sale_id)
 claim_date
 repair_status
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/41634805-42cf-44f8-8478-e024f88eae45" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/830471cc-2855-4faa-9038-a689f7759cac" />
 
 
 ```
