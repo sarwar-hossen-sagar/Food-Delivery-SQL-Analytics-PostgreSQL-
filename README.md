@@ -74,7 +74,8 @@ sale_id FK -> SALES(sale_id)
 claim_date
 repair_status
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/830471cc-2855-4faa-9038-a689f7759cac" />
+
+![image alt](https://github.com/sarwar-hossen-sagar/Food-Delivery-SQL-Analytics-PostgreSQL-/blob/d2f9ccfc5e1972ca73527484e9971fe3e08e2c36/Image%20.png)
 
 
 ```
