@@ -73,7 +73,7 @@ claim_id PK
 sale_id FK -> SALES(sale_id)
 claim_date
 repair_status
-
+---
 
 ![image alt](https://github.com/sarwar-hossen-sagar/Food-Delivery-SQL-Analytics-PostgreSQL-/blob/d2f9ccfc5e1972ca73527484e9971fe3e08e2c36/Image%20.png)
 
